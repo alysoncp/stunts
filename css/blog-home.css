@@ -14,7 +14,6 @@ body {
 	width:25px;
 }
 
-
 .fluid-jumbotron {
 	padding: 0px;
 	margin: auto;
@@ -24,13 +23,10 @@ body {
 	background-color: black;
 }
 
-
-
 .header iframe {
 	margin: auto;
 	width: 800px;
 }
-
 
 img {
 	max-width: 100%;
@@ -40,14 +36,27 @@ img {
 	width: 100%;
 	margin-top: 50px;
 	border-radius: 30px;
-	
 }
 
 .card {
 	color: black;
 	margin-top: 50px;
-
 }
+
+.prod-table th {
+	text-decoration: underline;
+}
+
+.credit {
+	vertical-align: text-top;	
+	border-bottom: solid 1px;
+}
+
+.padright {
+	padding-right: 8px;
+	padding-bottom: 10px;
+}
+
 
 iframe {
 	margin: auto;
